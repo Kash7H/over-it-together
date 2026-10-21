@@ -1,0 +1,8 @@
+_private/
+build/
+release/
+bin/
+obj/
+launcher/OverItTogether.exe
+*.zip
+*.log
